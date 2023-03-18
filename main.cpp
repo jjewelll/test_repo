@@ -2,6 +2,8 @@
 #include<string>
 using namespace std;
 
+// edit
+
 class Car { //클래스 선언
 public:
 	Car() {} // 클래스 함수와 생성자함수의 이름은 같아야한다. 
